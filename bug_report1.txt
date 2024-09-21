@@ -1,0 +1,5 @@
+Bug report #1
+1. Navigate to URL
+
+Expected: User navigated successfully. Home page is displayed
+Actual: 404
