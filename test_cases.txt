@@ -1,0 +1,3 @@
+Test Case 1:
+step1: go to URL
+expected: Navigated successfully
