@@ -16,4 +16,15 @@ git remote add origin <http://github.com/.../*.git>
 git push -u origin master
 
 5. create a branch
-git checkout -
+git checkout -b <new_branch_name>
+
+6. Add files and commit updates
+git add .
+git commit -m "..."
+
+7. Push cchanges
+git push -u origin <current_branch>
+
+8. Merge changes to master
+git checkout master
+git merge <branch_which_is_going_to_be_merged_into_master>
